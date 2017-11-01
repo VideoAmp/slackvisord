@@ -1,7 +1,7 @@
 # slackvisord
 SupervisorD event listener for Slack
 
-# Installation
+## Installation
 * Generate a [Slack Bot User](https://api.slack.com/bot-users) (you will need a bot user token for the supervisord command below)
 * Copy the conf example below to your supervisord.conf file (use absolute path to the slackvisord.py provided here)
 
